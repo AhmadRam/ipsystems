@@ -120,11 +120,11 @@
                     <div class="footer-contact pt-3">
                         {{-- <p>A108 Adam Street</p> --}}
                         <p>UAE, Dubai</p>
-                        <p class="mt-3"><strong>UAE Office:</strong> <span><a style="font-size: 16px;"
+                        <p class="mt-3"><strong>Phone:</strong> <span><a style="font-size: 16px;"
                                     href="whatsapp://send?phone=+971504088220">+971 50 40 88 22 0</a></span></p>
-                        <p><strong>KSA Office:</strong>
+                        {{-- <p><strong>KSA Office:</strong>
                             <span><a style="font-size: 16px;" href="whatsapp://send?phone=+966507435784">+966 50 743
-                                    57 84</a></span>
+                                    57 84</a></span> --}}
                         </p>
                         <p><strong>Email:</strong><span><a style="font-size: 16px;"
                                     href="mailto:mhmd@ips-me.ae">mhmd@ips-me.ae</a></span></p>
