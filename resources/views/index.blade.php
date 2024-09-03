@@ -143,8 +143,8 @@
 
                 <div class="row gy-4">
                     <div class="col-lg-6 position-relative align-self-start" data-aos="fade-up" data-aos-delay="100">
-                        <img src="assets/img/about.jpg" class="img-fluid" alt="">
-                        <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8" class="glightbox pulsating-play-btn"></a>
+                        <img src="assets/img/img12.jpg" class="img-fluid" alt="">
+                        <a href="assets/img/video.mp4" class="glightbox pulsating-play-btn"></a>
                     </div>
                     <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
                         <h3>Company Profile :</h3>
